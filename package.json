@@ -1,0 +1,16 @@
+{
+  "name": "discord-n8n-bot",
+  "version": "1.0.0",
+  "description": "Discord bot with n8n webhook integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
